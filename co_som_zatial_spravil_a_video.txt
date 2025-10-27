@@ -2,4 +2,5 @@
 - V Godote som tu postavu pridal do hry a nastavil ovladanie a koliziu okolo postavy
 - napisal som ciele prace v dokumentacii
 
+
 Link na video: https://www.youtube.com/watch?v=wlXKwtM7WYw
